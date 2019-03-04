@@ -19,13 +19,3 @@ node {
     }
 }
 
-    }
-
-      stage('Apply changes to the environment') {
-
-        sh "ls -l"
-        sh "echo run application"
-
-    }
-
-
